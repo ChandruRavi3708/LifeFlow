@@ -231,7 +231,7 @@ A journaling + habit tracking agent that analyzes your routines and suggests opt
 
 Actual integration with Amazon Fresh, Walmart, or Instacart.
 
-5. Smart Context Compaction
+5. Smart Context Compacti
 
 More efficient long-term state management for multi-week personalization.
 
