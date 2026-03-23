@@ -55,7 +55,7 @@ python main.py
 - `utils/` — logger  
 - `main.py` — entrypoint  
 
----
+
 
 ### Problem Statement
 Everyday life is filled with repetitive micro-tasks: planning the day, organizing schedules, generating meals, creating shopping lists, drafting emails, and remembering personal preferences spread across different apps.
